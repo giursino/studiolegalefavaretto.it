@@ -2356,3 +2356,7 @@ span.email-notes {
 .modal-body {
   text-align: justify;
 }
+
+.modal-body li {
+  list-style: circle inside
+}
