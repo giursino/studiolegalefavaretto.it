@@ -2353,3 +2353,6 @@ span.email-notes {
  .End CSS
 ----------------------------------------*/
 
+.modal-body {
+  text-align: justify;
+}
