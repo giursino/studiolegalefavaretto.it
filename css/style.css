@@ -393,7 +393,7 @@ div#preloader {
 
 .stick .navbar-header a.navbar-brand {
   display: inline-block;
-  height: 90px;
+  height: 70px;
 }
 
 .stick .navbar-brand>img {
@@ -404,36 +404,14 @@ div#preloader {
   display: block;
 }
 
-@media (max-width: 767px) {
-  .sticky-logo h1 {
-    font-size: 20px;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  .sticky-logo h1 {
-    font-size: 16px;
-  }
-}
-
-@media (min-width: 992px) and (max-width: 1199px) {
-  .sticky-logo h1 {
-    font-size: 24px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .sticky-logo h1 {
-    font-size: 36px;
-  }
-}
-
 .sticky-logo h1 {
   color: #fff;
   padding: 0;
   margin: 0;
   font-weight: bold;
-  line-height: 1;
+  font-size: 1.8vw;
+  vertical-align: middle;
+  line-height: 40px;
 }
 
 .sticky-logo h1 span {

@@ -269,6 +269,9 @@
   li.threaded-comments {
     margin-left: 0;
   }
+  .sticky-logo h1 {
+    font-size: 5.5vw;
+  }
 }
 
 /* Large Mobile :480px. */
