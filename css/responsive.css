@@ -189,6 +189,9 @@
   .nivo-directionNav {
     display: none;
   }
+  .nivo-caption {
+    padding: 0;
+  }
   .nivoSlider{
     height:calc(100vh - 60px - 56px) !important;
     width: auto !important;
