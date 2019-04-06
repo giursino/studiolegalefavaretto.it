@@ -4,6 +4,12 @@
   }
 }
 
+@media (min-width: 1400px) and (max-width:1920px) {
+  .slider-content {
+    padding: 340px 0;
+  }
+}
+
 /* Normal desktop :992px. */
 
 @media (min-width: 992px) and (max-width: 1169px) {
@@ -26,6 +32,9 @@
     display: inline-block;
     padding: 0 8px;
   }
+  .slider-content {
+    padding: 93px 0;
+  }
   .layer-1-1 h2 {
     font-size: 24px;
   }
@@ -33,6 +42,15 @@
     font-size: 31px;
     line-height: 38px;
     padding: 0px 30px;
+  }
+  .layer-1-2 h1 {
+    font-size: 22px;
+    line-height: 24px;
+  }
+  .layer-1-3 a.ready-btn {
+    font-size: 14px;
+    margin-top: 20px;
+    padding: 10px 20px;
   }
   .stick .main-menu ul.navbar-nav li a {
     padding: 24px 0px;
@@ -116,7 +134,7 @@
   }
 }
 
-/* small mobile :320px. */
+/* All Mobile Sizes (devices and browser): 320px; */
 
 @media (max-width: 767px) {
 
@@ -158,10 +176,30 @@
     padding: 0;
   }
 
+  /* START:; nivo slider */
+  #slider-home-mobile {
+    display: block;
+  }
+  #slider-home-desktop {
+    display: none;
+  }
   .slider-area {
     margin-top: 60px;
   }
-
+  .nivo-directionNav {
+    display: none;
+  }
+  .nivoSlider{
+    height:calc(100vh - 60px - 56px) !important;
+    width: auto !important;
+  }
+  .nivoSlider img{
+    height:calc(100vh - 60px - 56px) !important;
+    width: auto !important;
+  } 
+  .slider-content {
+    padding: 46px 0px;;
+  }
   .slider-content h2 {
     font-size: 18px !important;
     line-height: 24px !important;
@@ -170,10 +208,31 @@
     font-size: 20px !important;
     line-height: 26px !important;
   }
-
+  .layer-1-2 {
+    margin: 10px 0;
+  }
+  .layer-1-1 h2 {
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .layer-1-2 h1 {
+    font-size: 14px;
+    line-height: 16px;
+  }
   .layer-1-3 a.ready-btn {
+    font-size: 12px;
+    margin-top: 10px;
     padding: 8px 15px;
   }
+  .layer-1-3 {
+    margin: 10px 0 0;
+  }
+  .nivo-controlNav {
+    bottom: -8px;
+  }
+  /* END: nivo slider */
+
+
   .section-headline h2 {
     font-size: 30px;
   }
@@ -274,7 +333,7 @@
   }
 }
 
-/* Large Mobile :480px. */
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers): 480px; */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .submitbtn {
@@ -298,5 +357,14 @@
   }
   .tab-menu ul.nav li a {
     padding: 8px 20px;
+  }
+
+  /* nivoslider */
+  .slider-content {
+    padding: 70px 0px;
+  }
+  .layer-1-1 h2, .layer-1-2 h1 {
+    font-size: 24px;
+    line-height: 30px;
   }
 }
