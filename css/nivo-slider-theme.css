@@ -155,17 +155,25 @@ Supports Thumbs: true
   }
 }
 
-/* Mobile phone */
+/* All Mobile Sizes (devices and browser) */
 
 @media (max-width: 767px) {
   .nivo-directionNav {
     display: none;
   }
-  .slider-area {
-    height: 100vh;   
+
+  .nivoSlider img{
+    height:calc(100vh - 60px) !important;
+    width: auto !important;
+  } 
+
+  .nivoSlider{
+    height:calc(100vh - 60px) !important;
+    width: auto !important;
   }
+
   .slider-content {
-    padding: 46px 0px;
+    padding: 46px 0px;;
   }
   .layer-1-2 {
     margin: 10px 0;
@@ -191,6 +199,7 @@ Supports Thumbs: true
   }
 }
 
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
   .slider-content {
     padding: 70px 0px;
