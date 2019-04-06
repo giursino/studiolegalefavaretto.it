@@ -163,12 +163,12 @@ Supports Thumbs: true
   }
 
   .nivoSlider img{
-    height:calc(100vh - 60px) !important;
+    height:calc(100vh - 60px - 56px) !important;
     width: auto !important;
   } 
 
   .nivoSlider{
-    height:calc(100vh - 60px) !important;
+    height:calc(100vh - 60px - 56px) !important;
     width: auto !important;
   }
 
