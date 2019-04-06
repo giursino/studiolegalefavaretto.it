@@ -52,11 +52,11 @@
     boxCols: 12,
     boxRows: 8,
     animSpeed: 500,
-    pauseTime: 5000,
+    pauseTime: 3500,
     startSlide: 0,
     directionNav: true,
     controlNavThumbs: false,
-    pauseOnHover: true,
+    pauseOnHover: false,
     manualAdvance: false,
   });
 
@@ -66,7 +66,7 @@
     boxCols: 12,
     boxRows: 8,
     animSpeed: 500,
-    pauseTime: 5000,
+    pauseTime: 3500,
     startSlide: 0,
     directionNav: true,
     controlNavThumbs: false,
