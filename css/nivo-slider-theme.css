@@ -122,6 +122,15 @@ Supports Thumbs: true
   -ms-transform: rotate(180deg);
 }
 
+#slider-home-mobile {
+  display: none;
+}
+
+#slider-home-desktop {
+  display: block;
+}
+
+
 /* Normal desktop :992px. */
 
 @media (min-width: 1400px) and (max-width:1920px) {
@@ -158,6 +167,15 @@ Supports Thumbs: true
 /* All Mobile Sizes (devices and browser) */
 
 @media (max-width: 767px) {
+
+  #slider-home-mobile {
+    display: block;
+  }
+
+  #slider-home-desktop {
+    display: none;
+  }
+
   .nivo-directionNav {
     display: none;
   }
