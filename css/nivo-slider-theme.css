@@ -155,9 +155,14 @@ Supports Thumbs: true
   }
 }
 
+/* Mobile phone */
+
 @media (max-width: 767px) {
   .nivo-directionNav {
     display: none;
+  }
+  .slider-area {
+    height: 100vh;   
   }
   .slider-content {
     padding: 46px 0px;
