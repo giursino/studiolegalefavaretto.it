@@ -158,12 +158,6 @@ body {
   transition: background 0.5s;
 }
 
-@media (max-width: 768px) {
-  .back-to-top {
-    bottom: 15px;
-  }
-}
-
 .back-to-top:focus {
   background: #3EC1D5;
   color: #fff;
