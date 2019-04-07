@@ -4,7 +4,7 @@
 $from = 'Studio Legale Favaretto - Contact Form <info@stdiolegalefavaretto.it>';
 
 // an email address that will receive the email with the output of the form
-$sendTo = 'site admin <giursino@gmail.com>';
+$sendTo = 'Avv. Giulia Favaretto <avv.giuliafavaretto@gmail.com>';
 
 // subject of the email
 $subject = 'Nuovo messaggio di contatto';
