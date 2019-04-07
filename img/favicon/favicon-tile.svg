@@ -9,16 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="120"
-   height="120"
-   viewBox="0 0 120 120"
+   width="310"
+   height="150"
+   viewBox="0 0 310 150"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="favicon.svg"
-   inkscape:export-filename="/home/giursino/Workspace/studiolegalefavaretto.it/img/favicon-win-310x310.png"
-   inkscape:export-xdpi="232.5"
-   inkscape:export-ydpi="232.5">
+   sodipodi:docname="favicon-tile.svg"
+   inkscape:export-filename="/home/giursino/Workspace/studiolegalefavaretto.it/img/favicon-win-310x150.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="35.250176"
-     inkscape:cy="103.13164"
+     inkscape:cx="167.32762"
+     inkscape:cy="89.999657"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,48 +56,48 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-932.36216)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-902.36216)">
     <rect
        style="fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3336"
-       width="115"
-       height="115"
+       width="305"
+       height="145"
        x="2.5"
-       y="934.86218"
-       ry="10.147058" />
+       y="904.86218"
+       ry="12.794116" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Livello 2">
+     inkscape:label="Livello 2"
+     transform="translate(0,30)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35.58721924px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="54.573463"
-       y="100.3891"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:28.06096077px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="62.76915"
+       y="98.44178"
        id="text4138"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140"
-         x="54.573463"
-         y="100.3891"
+         x="62.76915"
+         y="98.44178"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Bold'"><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold'"
-           id="tspan4138">SL</tspan></tspan></text>
+           id="tspan4138">STUDIO LEGALE</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:102.59054565px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#3ec1d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="26.187878"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:141.76837158px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#3ec1d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.600897"
        y="94.551598"
        id="text4138-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140-6"
-         x="26.187878"
+         x="24.600897"
          y="94.551598"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:102.59054565px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';fill:#3ec1d5;fill-opacity:1">F<tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:102.59054565px;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold';fill:#3ec1d5;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.76837158px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';fill:#3ec1d5;fill-opacity:1">F<tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:141.76837158px;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold';fill:#3ec1d5;fill-opacity:1"
    id="tspan4138-3" /></tspan></text>
   </g>
 </svg>
