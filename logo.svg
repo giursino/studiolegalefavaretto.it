@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="310"
+   height="150"
+   viewBox="0 0 310 150"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/giursino/Workspace/studiolegalefavaretto.it/logo.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="151.97885"
+     inkscape:cy="29.172444"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-902.36216)">
+    <rect
+       style="fill:#444444;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="305"
+       height="145"
+       x="2.5"
+       y="904.86218"
+       ry="12.794116" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Livello 2"
+     transform="translate(0,30)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:22.46454811px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="109.17863"
+       y="24.275356"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="109.17863"
+         y="24.275356"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:'Raleway Semi-Bold'"
+         id="tspan4178">STUDIO LEGALE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:141.76837158px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#3ec1d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="12.984142"
+       y="91.500832"
+       id="text4138-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140-6"
+         x="12.984142"
+         y="91.500832"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:141.76837158px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';fill:#3ec1d5;fill-opacity:1">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:141.76837158px;line-height:125%;font-family:Canossa;-inkscape-font-specification:'Canossa Light';letter-spacing:0px;word-spacing:0px;fill:#3ec1d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.22525"
+       y="89.985603"
+       id="text4138-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140-6-6"
+         x="63.22525"
+         y="89.985603"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Raleway;-inkscape-font-specification:'Raleway Bold';fill:#3ec1d5;fill-opacity:1">AVARETTO</tspan></text>
+  </g>
+</svg>
