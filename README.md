@@ -13,3 +13,7 @@ Sources of website
 * SEO tester: https://suite.seotesteronline.com/seo-checker/aHR0cDovL3d3dy5zdHVkaW9sZWdhbGVmYXZhcmV0dG8uaXQ=/content#problem-body-sc_titleCoherence
 
 * Privacy: https://www.iubenda.com/it/
+
+* open graph: http://ogp.me/
+
+* minify JS
