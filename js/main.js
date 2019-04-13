@@ -190,7 +190,7 @@
 
   /*---------------------
    Circular Bars - Knob
---------------------- */
+  --------------------- */
   if (typeof($.fn.knob) != 'undefined') {
     var knob_tex = $('.knob');
     knob_tex.each(function() {
@@ -221,5 +221,14 @@
       });
     });
   }
+
+  /*---------------------
+   Google Maps loader
+  --------------------- */
+  $(window).on('load', function(){
+    var maps = document.getElementById('maps').contentWindow
+    maps.location.replace('https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980.465872422657!2d11.885143806110813!3d45.41333827756262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eda5ee25f565f%3A0xdb2d2c586c09f5a8!2sVia+Bellini%2C+12%2C+35131+Padova+PD!5e0!3m2!1sit!2sit!4v1554830304648!5m2!1sit!2sit')
+  });
+
 
 })(jQuery);
