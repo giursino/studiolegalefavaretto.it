@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://studiolegalefavaretto.it/sitemap.xml
+Sitemap: https://www.studiolegalefavaretto.it/sitemap.xml
