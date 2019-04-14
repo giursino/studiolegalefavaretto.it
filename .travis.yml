@@ -1,3 +1,3 @@
 language: bash
 after_success:
-  - find . ! -path "./.*" ! -path "./local/*" -type f -print -exec curl --ftp-create-dirs -T {} ftp://studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+  - find . ! -path "./.*" ! -path "./local/*" -type f -print -exec curl --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
