@@ -1,3 +1,3 @@
 language: bash
 after_success:
-  - find . ! -path "./.git*" ! -name .travis.yml ! -path "./local/*" -type f -print -exec curl --verbose --progress-bar --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --disable-epsv --ftp-ssl --insecure --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+  - echo find . ! -path "./.git*" ! -name .travis.yml ! -path "./local/*" -type f -print -exec curl --verbose --progress-bar --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --disable-epsv --ftp-ssl --insecure --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
