@@ -1,0 +1,3 @@
+language: bash
+after_success:
+  - find . -type d \( -path "./.*" -o -path "./local" \) -prune -o -name "*" -print -exec curl --ftp-create-dirs -T {} ftp://studiolegalefavaretto.it --user ${FTP_USER}:${FTP_PASSWORD} \;

@@ -17,3 +17,7 @@ Sources of website
 * open graph: http://ogp.me/
 
 * minify JS
+
+* test speed: GTMetrix
+
+* add CI to automate deploy FTP from github with travis
