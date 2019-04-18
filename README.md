@@ -26,3 +26,5 @@ Sources of website
 * test metatdata: 
   * http://metatags.io
   * http://analyzer.metatags.org/
+
+* robots & sitemap: http://www.web-site-map.com

@@ -8,5 +8,5 @@ jobs:
       - run:
           name: "upload ftp"
           command: |
-            find . ! -path "./.git*" ! -name .travis.yml ! -name ".circleci/*" ! -path "./local/*" -type f -print -exec curl --verbose --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+            echo find . ! -path "./.git*" ! -name .travis.yml ! -name ".circleci/*" ! -path "./local/*" -type f -print -exec curl --verbose --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
 
