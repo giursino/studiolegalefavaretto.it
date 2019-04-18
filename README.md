@@ -23,5 +23,5 @@ Sources of website
 * add CI to automate deploy FTP from github with travis
 
 * test metatdata: 
-*  http://metadata.io
-*  http://analyzer.metatags.org/
+  * http://metatags.io
+  * http://analyzer.metatags.org/
