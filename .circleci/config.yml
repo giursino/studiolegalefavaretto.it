@@ -1,3 +1,12 @@
-language: bash
-after_success:
-  - echo find . ! -path "./.git*" ! -name .travis.yml ! -path "./local/*" -type f -print -exec curl --verbose --progress-bar --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --disable-epsv --ftp-ssl --insecure --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+version: 2.0
+jobs:
+  build:
+    docker:
+      - image: circleci/buildpack-deps:curl
+    steps:
+      - checkout
+      - run:
+          name: "upload ftp"
+          command: |
+            find . ! -path "./.git*" ! -name .travis.yml ! -name ".circleci/*" ! -path "./local/*" -type f -print -exec curl --verbose --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+
