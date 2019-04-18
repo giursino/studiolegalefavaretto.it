@@ -1,4 +1,5 @@
 # Website www.studiolegalefavaretto.it
+[![Deploy Status](https://travis-ci.org/giursino/studiolegalefavaretto.it.svg?branch=master)](https://travis-ci.org/giursino/studiolegalefavaretto.it)
 
 Sources of website
 
