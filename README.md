@@ -21,3 +21,7 @@ Sources of website
 * test speed: GTMetrix
 
 * add CI to automate deploy FTP from github with travis
+
+* test metatdata: 
+*  http://metadata.io
+*  http://analyzer.metatags.org/
