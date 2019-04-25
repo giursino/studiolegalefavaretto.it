@@ -237,5 +237,11 @@
     $('#privacy-body').load("privacy.html")
   });
 
+  /*---------------------
+   Legal advices loader
+  --------------------- */
+  $('#note-legali').on('show.bs.modal', function(){
+    $('#note-legali-body').load("notelegali.html")
+  });
 
 })(jQuery);
