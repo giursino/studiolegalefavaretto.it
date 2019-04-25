@@ -11,20 +11,39 @@ Sources of website
 
 ## Tools
 
-* SEO tester: https://suite.seotesteronline.com/seo-checker/aHR0cDovL3d3dy5zdHVkaW9sZWdhbGVmYXZhcmV0dG8uaXQ=/content#problem-body-sc_titleCoherence
+* SEO tester: https://suite.seotesteronline.com/seo-checker
 
 * Privacy: https://www.iubenda.com/it/
 
 * open graph: http://ogp.me/
 
-* minify JS
-
-* test speed: GTMetrix
-
-* add CI to automate deploy FTP from github with travis
+* test speed: https://gtmetrix.com/
 
 * test metatdata: 
   * http://metatags.io
   * http://analyzer.metatags.org/
 
 * robots & sitemap: http://www.web-site-map.com
+
+* show keywords on page: http://tools.neilpatel.com/it/analyze
+
+## TODO
+
+* add CI to automate deploy FTP from github with Circle CI
+
+* title on <a> tag
+
+* microdata missing: see https://schema.org/
+
+* resize images (jpeg 2000)
+
+* change slider (only one tag h2 for mobile/desktop)
+
+* remove loader waiter
+
+* minify:
+  * html
+  * javascript
+  * css
+
+* add more times "favaretto" and "privati" words (h1 problem)
