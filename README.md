@@ -1,31 +1,43 @@
 # Website www.studiolegalefavaretto.it
+
 [![Deploy Status](https://travis-ci.org/giursino/studiolegalefavaretto.it.svg?branch=master)](https://travis-ci.org/giursino/studiolegalefavaretto.it)
 
 Sources of website
 
-## Favicon
 
-* created SVG
-
-* used website https://realfavicongenerator.net to test and to generate all favicons
-
-## Tools
-
-* SEO tester: https://suite.seotesteronline.com/seo-checker
+## Privacy
 
 * Privacy: https://www.iubenda.com/it/
 
-* open graph: http://ogp.me/
+* I've put privacy policy on modal window loaded when click on it to avoid get privacy policty keywords from crawler.
 
-* test speed: https://gtmetrix.com/
 
-* test metatdata: 
+## Favicon
+
+* I've created SVG favicon
+
+* used website https://realfavicongenerator.net to test and to generate all favicons
+
+
+## Metadata
+
+* Open graph: http://ogp.me/
+
+* Test metatdata: 
   * http://metatags.io
   * http://analyzer.metatags.org/
 
-* robots & sitemap: http://www.web-site-map.com
 
-* show keywords on page: http://tools.neilpatel.com/it/analyze
+## SEO
+
+* SEO tester: 
+  * https://suite.seotesteronline.com/seo-checker
+  * http://tools.neilpatel.com/it/analyze (usefull to show keywords get from crawler)
+
+* Test speed: https://gtmetrix.com/
+
+* Robots & sitemap: http://www.web-site-map.com
+
 
 ## TODO
 
