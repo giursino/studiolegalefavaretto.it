@@ -8,5 +8,6 @@ jobs:
       - run:
           name: "upload ftp"
           command: |
-            echo find . ! -path "./.git*" ! -name .travis.yml ! -name ".circleci/*" ! -path "./local/*" -type f -print -exec curl --verbose --ipv4 --connect-timeout 8 --max-time 30 --retry 128 --ftp-create-dirs -T {} ftp.studiolegalefavaretto.it --user "${FTP_USER}":"${FTP_PASSWORD}" \;
+            sudo apt-get install -y lftp
+            lftp -u "${FTP_USER}","${FTP_PASSWORD}" ftp.studiolegalefavaretto.it -e "set ftp:ssl-allow no; mirror --delete --only-newer --parallel=5 --exclude ".git/" --exclude ".gitignore" --exclude ".travis.yml" --exclude ".circleci/" --exclude "local/" --verbose -R ${CIRCLE_WORKING_DIRECTORY} . ; quit"
 

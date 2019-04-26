@@ -1,8 +1,8 @@
 # Website www.studiolegalefavaretto.it
 
-[![Deploy Status](https://travis-ci.org/giursino/studiolegalefavaretto.it.svg?branch=master)](https://travis-ci.org/giursino/studiolegalefavaretto.it)
+[![Deploy Status](https://circleci.com/gh/giursino/studiolegalefavaretto.it.svg?style=svg)](https://circleci.com/gh/giursino/studiolegalefavaretto.it)
 
-Sources of website
+Sources of www.studiolegalefavaretto.it website.
 
 
 ## Privacy
