@@ -149,7 +149,6 @@
       }
     }
   });
-  //portfolio end
 
   /*---------------------
    Google Maps loader
