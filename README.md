@@ -41,7 +41,7 @@ Sources of www.studiolegalefavaretto.it website.
 
 - [x] add CI to automate deploy FTP from github with Circle CI
 - [x] title on <a> tag
-- [ ] microdata missing: see https://schema.org/
+- [x] microdata missing: see https://schema.org/
 - [ ] resize images (jpeg 2000)
 - [ ] change slider (only one tag h2 for mobile/desktop)
 - [ ] remove loader waiter
