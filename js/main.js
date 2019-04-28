@@ -2,7 +2,7 @@
   "use strict";
 
   /*--------------------------
-  preloader
+    Preloader
   ---------------------------- */
   $(window).on('load', function() {
     var pre_loader = $('#preloader');
@@ -12,7 +12,7 @@
   });
 
   /*---------------------
-   TOP Menu Stick
+    TOP Menu Stick
   --------------------- */
   var s = $("#sticker");
   var pos = s.position();
@@ -26,7 +26,7 @@
   });
 
   /*----------------------------
-   Navbar nav
+    Navbar nav
   ------------------------------ */
   var main_menu = $(".main-menu ul.navbar-nav li ");
   main_menu.on('click', function() {
@@ -35,7 +35,7 @@
   });
 
   /*----------------------------
-   wow js active
+    Wow js active
   ------------------------------ */
   new WOW().init();
 
@@ -43,9 +43,9 @@
     $(".navbar-collapse.collapse").removeClass('in');
   });
 
-  //---------------------------------------------
-  //Nivo slider
-  //---------------------------------------------
+  /*----------------------------
+    Nivo slider
+  ------------------------------ */
   $('#desktop-nivoslider').nivoSlider({
     effect: 'random',
     slices: 15,
@@ -73,8 +73,9 @@
     pauseOnHover: false,
     manualAdvance: false,
   });
+
   /*----------------------------
-   Scrollspy js
+    Scrollspy js
   ------------------------------ */
   var Body = $('body');
   Body.scrollspy({
@@ -83,7 +84,7 @@
   });
 
   /*----------------------------
-  Page Scroll
+    Page Scroll
   ------------------------------ */
   var page_scroll = $('a.page-scroll');
   page_scroll.on('click', function(event) {
@@ -119,7 +120,7 @@
   well_text.parallax("50%", 0.6);
 
   /*--------------------------
-   collapse
+   Collapse
   ---------------------------- */
   var panel_test = $('.panel-heading a');
   panel_test.on('click', function() {
