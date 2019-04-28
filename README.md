@@ -29,7 +29,7 @@ Sources of www.studiolegalefavaretto.it website.
 
 * SEO tester: 
   * https://suite.seotesteronline.com/seo-checker
-  * http://tools.neilpatel.com/it/analyze (usefull to show keywords get from crawler)
+  * https://neilpatel.com/it/strumento-di-analisi-seo/ (usefull to show keywords get from crawler)
 * Test speed: https://gtmetrix.com/
 * Robots & sitemap: http://www.web-site-map.com
 * Test if site is present on Google: search
@@ -40,7 +40,7 @@ Sources of www.studiolegalefavaretto.it website.
 ## TODO
 
 - [x] add CI to automate deploy FTP from github with Circle CI
-- [ ] title on <a> tag
+- [x] title on <a> tag
 - [ ] microdata missing: see https://schema.org/
 - [ ] resize images (jpeg 2000)
 - [ ] change slider (only one tag h2 for mobile/desktop)
