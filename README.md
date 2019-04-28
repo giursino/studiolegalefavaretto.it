@@ -32,8 +32,8 @@ Sources of www.studiolegalefavaretto.it website.
   * https://neilpatel.com/it/strumento-di-analisi-seo/ (usefull to show keywords get from crawler)
 * Test speed: https://gtmetrix.com/
 * Robots & sitemap: http://www.web-site-map.com
-* Test if site is present on Google: search
-  "site:studiolegalefavaretto.it" on Google
+* Test if site is present on Google: search "site:studiolegalefavaretto.it" on Google
+* Microdata tester: https://search.google.com/structured-data/testing-tool?hl=it#url=www.studiolegalefavaretto.it
 
 
 
