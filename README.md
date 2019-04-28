@@ -56,7 +56,7 @@ Sources of www.studiolegalefavaretto.it website.
 - [ ] change slider (only one tag h2 for mobile/desktop)
 - [ ] remove loader waiter
 - minify:
-  - [ ] html
+  - [-] html
   - [x] javascript
   - [x] css
 - [ ] add more times "favaretto" and "privati" words (h1 problem)
