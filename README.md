@@ -47,6 +47,10 @@ Sources of www.studiolegalefavaretto.it website.
 
 * minify CSS: https://cssminifier.com/
 
+## Template
+
+* center image position: https://alligator.io/css/cropping-images-object-fit/
+
 ## TODO
 
 - [x] add CI to automate deploy FTP from github with Circle CI
